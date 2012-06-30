@@ -1,0 +1,568 @@
+Sep 22 11:46:05 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Sep 22 11:46:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 11:46:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 11:46:05 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Sep 22 11:46:05 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Sep 22 11:46:05 symfony [info] {sfPHPView} Decorate content with "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:46:05 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 22 11:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 11:46:05 symfony [info] {sfWebDebugLogger} Configuration 393.28 ms (9)
+Sep 22 11:46:05 symfony [info] {sfWebDebugLogger} Factories 345.78 ms (1)
+Sep 22 11:46:05 symfony [info] {sfWebDebugLogger} Action "default/index" 0.25 ms (1)
+Sep 22 11:46:05 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 93.12 ms (1)
+Sep 22 11:46:06 symfony [info] {sfWebResponse} Send content (30230 o)
+Sep 22 11:46:09 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Sep 22 11:46:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 11:46:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 11:46:10 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Sep 22 11:46:10 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Sep 22 11:46:10 symfony [info] {sfPHPView} Decorate content with "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:46:10 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:46:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 22 11:46:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 11:46:10 symfony [info] {sfWebDebugLogger} Configuration 17.70 ms (9)
+Sep 22 11:46:10 symfony [info] {sfWebDebugLogger} Factories 130.03 ms (1)
+Sep 22 11:46:10 symfony [info] {sfWebDebugLogger} Action "default/index" 0.24 ms (1)
+Sep 22 11:46:10 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 38.82 ms (1)
+Sep 22 11:46:10 symfony [info] {sfWebResponse} Send content (30260 o)
+Sep 22 11:50:14 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Sep 22 11:50:14 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Sep 22 11:50:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 11:50:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 11:50:14 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Sep 22 11:50:14 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Sep 22 11:50:14 symfony [info] {sfPHPView} Decorate content with "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:50:14 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:50:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 22 11:50:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 11:50:14 symfony [info] {sfWebDebugLogger} Configuration 11.35 ms (9)
+Sep 22 11:50:14 symfony [info] {sfWebDebugLogger} Factories 177.24 ms (1)
+Sep 22 11:50:14 symfony [info] {sfWebDebugLogger} Action "default/index" 0.26 ms (1)
+Sep 22 11:50:14 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 84.37 ms (1)
+Sep 22 11:50:14 symfony [info] {sfWebResponse} Send content (30260 o)
+Sep 22 11:50:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 11:50:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 11:50:14 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Sep 22 11:50:14 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Sep 22 11:50:14 symfony [info] {sfPHPView} Decorate content with "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:50:14 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:50:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 22 11:50:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 11:50:14 symfony [info] {sfWebDebugLogger} Configuration 10.98 ms (9)
+Sep 22 11:50:14 symfony [info] {sfWebDebugLogger} Factories 690.97 ms (1)
+Sep 22 11:50:14 symfony [info] {sfWebDebugLogger} Action "default/index" 11.69 ms (1)
+Sep 22 11:50:14 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 53.46 ms (1)
+Sep 22 11:50:14 symfony [info] {sfWebResponse} Send content (30260 o)
+Sep 22 11:50:18 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Sep 22 11:50:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 11:50:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 11:50:18 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Sep 22 11:50:18 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Sep 22 11:50:18 symfony [info] {sfPHPView} Decorate content with "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:50:18 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 11:50:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 22 11:50:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 11:50:18 symfony [info] {sfWebDebugLogger} Configuration 13.51 ms (9)
+Sep 22 11:50:18 symfony [info] {sfWebDebugLogger} Factories 105.12 ms (1)
+Sep 22 11:50:18 symfony [info] {sfWebDebugLogger} Action "default/index" 0.28 ms (1)
+Sep 22 11:50:18 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 69.22 ms (1)
+Sep 22 11:50:18 symfony [info] {sfWebResponse} Send content (30260 o)
+Sep 22 12:00:14 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Sep 22 12:00:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:00:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:00:14 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Sep 22 12:00:14 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Sep 22 12:00:14 symfony [info] {sfPHPView} Decorate content with "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 12:00:14 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Sep 22 12:00:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 22 12:00:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:00:14 symfony [info] {sfWebDebugLogger} Configuration 46.68 ms (10)
+Sep 22 12:00:14 symfony [info] {sfWebDebugLogger} Factories 97.56 ms (1)
+Sep 22 12:00:14 symfony [info] {sfWebDebugLogger} Action "default/index" 0.24 ms (1)
+Sep 22 12:00:14 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 37.44 ms (1)
+Sep 22 12:00:14 symfony [info] {sfWebResponse} Send content (30229 o)
+Sep 22 12:46:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:46:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:46:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:46:21 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:48:48 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:48:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:48:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:48:48 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:48:49 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\apps\frontend\modules/index/templates/indexSuccess.php"
+Sep 22 12:48:49 symfony [info] {sfPHPView} Decorate content with "D:\www\junaio\symfony\apps\frontend\templates/layout.php"
+Sep 22 12:48:49 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\apps\frontend\templates/layout.php"
+Sep 22 12:48:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 22 12:48:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:48:49 symfony [info] {sfWebDebugLogger} Configuration 78.65 ms (10)
+Sep 22 12:48:49 symfony [info] {sfWebDebugLogger} Factories 208.90 ms (1)
+Sep 22 12:48:49 symfony [info] {sfWebDebugLogger} Action "index/index" 334.66 ms (1)
+Sep 22 12:48:49 symfony [info] {sfWebDebugLogger} View "Success" for "index/index" 224.27 ms (1)
+Sep 22 12:48:49 symfony [info] {sfWebResponse} Send content (34645 o)
+Sep 22 12:49:12 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:49:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:49:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:49:12 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:49:12 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\apps\frontend\modules/index/templates/indexSuccess.php"
+Sep 22 12:49:12 symfony [info] {sfPHPView} Decorate content with "D:\www\junaio\symfony\apps\frontend\templates/layout.php"
+Sep 22 12:49:12 symfony [info] {sfPHPView} Render "D:\www\junaio\symfony\apps\frontend\templates/layout.php"
+Sep 22 12:49:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 22 12:49:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:49:12 symfony [info] {sfWebDebugLogger} Configuration 13.39 ms (9)
+Sep 22 12:49:12 symfony [info] {sfWebDebugLogger} Factories 107.77 ms (1)
+Sep 22 12:49:12 symfony [info] {sfWebDebugLogger} Action "index/index" 110.55 ms (1)
+Sep 22 12:49:12 symfony [info] {sfWebDebugLogger} View "Success" for "index/index" 79.09 ms (1)
+Sep 22 12:49:13 symfony [info] {sfWebResponse} Send content (32978 o)
+Sep 22 12:54:19 symfony [info] {sfPatternRouting} Match route "sf_guard_signin" (/login) for /login with parameters array (  'module' => 'sfGuardAuth',  'action' => 'signin',)
+Sep 22 12:54:19 symfony [err] {sfConfigurationException} The module "sfGuardAuth" is not enabled.
+Sep 22 12:54:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Sep 22 12:54:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:54:19 symfony [info] {sfWebDebugLogger} Configuration 5.28 ms (5)
+Sep 22 12:54:19 symfony [info] {sfWebDebugLogger} Factories 148.27 ms (1)
+Sep 22 12:56:36 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:56:36 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:56:36 symfony [info] {sfPatternRouting} Match route "sf_guard_signin" (/login) for /login with parameters array (  'module' => 'sfGuardAuth',  'action' => 'signin',)
+Sep 22 12:56:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:56:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:56:36 symfony [info] {sfGuardAuthActions} Call "sfGuardAuthActions->executeSignin()"
+Sep 22 12:56:37 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Sep 22 12:56:37 symfony [info] {Doctrine_Connection_Statement} execute : SELECT s.id AS s__id, s.first_name AS s__first_name, s.last_name AS s__last_name, s.email_address AS s__email_address, s.username AS s__username, s.algorithm AS s__algorithm, s.salt AS s__salt, s.password AS s__password, s.is_active AS s__is_active, s.is_super_admin AS s__is_super_admin, s.last_login AS s__last_login, s.created_at AS s__created_at, s.updated_at AS s__updated_at FROM sf_guard_user s WHERE (s.username = ? AND s.is_active = ?) - (skipp, 1)
+Sep 22 12:56:37 symfony [err] {sfException} Call to undefined method myUser::signin.
+Sep 22 12:56:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Sep 22 12:56:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:56:37 symfony [info] {sfWebDebugLogger} Configuration 100.04 ms (8)
+Sep 22 12:56:37 symfony [info] {sfWebDebugLogger} Factories 134.27 ms (1)
+Sep 22 12:56:37 symfony [info] {sfWebDebugLogger} Action "sfGuardAuth/signin" 836.52 ms (1)
+Sep 22 12:56:37 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.03 ms (2)
+Sep 22 12:59:11 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:11 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:11 symfony [info] {sfPatternRouting} Match route "sf_guard_signin" (/login) for /login with parameters array (  'module' => 'sfGuardAuth',  'action' => 'signin',)
+Sep 22 12:59:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:11 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:11 symfony [info] {sfGuardAuthActions} Call "sfGuardAuthActions->executeSignin()"
+Sep 22 12:59:11 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Sep 22 12:59:11 symfony [info] {Doctrine_Connection_Statement} execute : SELECT s.id AS s__id, s.first_name AS s__first_name, s.last_name AS s__last_name, s.email_address AS s__email_address, s.username AS s__username, s.algorithm AS s__algorithm, s.salt AS s__salt, s.password AS s__password, s.is_active AS s__is_active, s.is_super_admin AS s__is_super_admin, s.last_login AS s__last_login, s.created_at AS s__created_at, s.updated_at AS s__updated_at FROM sf_guard_user s WHERE (s.username = ? AND s.is_active = ?) - (skipp, 1)
+Sep 22 12:59:11 symfony [info] {myUser} User is authenticated
+Sep 22 12:59:12 symfony [info] {Doctrine_Connection_Statement} execute : SELECT s.id AS s__id, s.name AS s__name, s.description AS s__description, s.created_at AS s__created_at, s.updated_at AS s__updated_at, s2.user_id AS s2__user_id, s2.permission_id AS s2__permission_id, s2.created_at AS s2__created_at, s2.updated_at AS s2__updated_at FROM sf_guard_permission s LEFT JOIN sf_guard_user_permission s2 ON s.id = s2.permission_id WHERE (s2.user_id IN (?)) - (2)
+Sep 22 12:59:12 symfony [info] {Doctrine_Connection_Statement} execute : SELECT s.id AS s__id, s.name AS s__name, s.description AS s__description, s.created_at AS s__created_at, s.updated_at AS s__updated_at, s2.user_id AS s2__user_id, s2.group_id AS s2__group_id, s2.created_at AS s2__created_at, s2.updated_at AS s2__updated_at FROM sf_guard_group s LEFT JOIN sf_guard_user_group s2 ON s.id = s2.group_id WHERE (s2.user_id IN (?)) - (2)
+Sep 22 12:59:12 symfony [info] {myUser} Add credential(s) ""
+Sep 22 12:59:12 symfony [info] {Doctrine_Connection_Statement} execute : UPDATE sf_guard_user SET last_login = ?, updated_at = ? WHERE id = ? - (2011-09-22 12:59:12, 2011-09-22 12:59:12, 2)
+Sep 22 12:59:12 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php"
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php"
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:12 symfony [info] {sfWebDebugLogger} Configuration 40.30 ms (8)
+Sep 22 12:59:12 symfony [info] {sfWebDebugLogger} Factories 144.03 ms (1)
+Sep 22 12:59:12 symfony [info] {sfWebDebugLogger} Action "sfGuardAuth/signin" 465.85 ms (1)
+Sep 22 12:59:12 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.06 ms (5)
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send content (125 o)
+Sep 22 12:59:12 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:12 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:12 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:12 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:12 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:12 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:12 symfony [info] {sfWebDebugLogger} Configuration 61.70 ms (9)
+Sep 22 12:59:12 symfony [info] {sfWebDebugLogger} Factories 107.07 ms (1)
+Sep 22 12:59:12 symfony [info] {sfWebDebugLogger} Action "index/index" 1.63 ms (1)
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:12 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:12 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:12 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'game',  'action' => 'index',)
+Sep 22 12:59:12 symfony [info] {sfFrontWebController} Action "game/index" does not exist
+Sep 22 12:59:12 symfony [err] {sfError404Exception} Action "game/index" does not exist.
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 22 12:59:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:12 symfony [info] {sfWebDebugLogger} Configuration 5.41 ms (5)
+Sep 22 12:59:12 symfony [info] {sfWebDebugLogger} Factories 94.70 ms (1)
+Sep 22 12:59:24 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:24 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:24 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:24 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:24 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:24 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:24 symfony [info] {sfWebDebugLogger} Configuration 156.89 ms (9)
+Sep 22 12:59:24 symfony [info] {sfWebDebugLogger} Factories 257.64 ms (1)
+Sep 22 12:59:24 symfony [info] {sfWebDebugLogger} Action "index/index" 1.74 ms (1)
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:24 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:24 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:24 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:24 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:24 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:24 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:24 symfony [info] {sfWebDebugLogger} Configuration 9.69 ms (8)
+Sep 22 12:59:24 symfony [info] {sfWebDebugLogger} Factories 81.41 ms (1)
+Sep 22 12:59:24 symfony [info] {sfWebDebugLogger} Action "index/index" 1.77 ms (1)
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:24 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:24 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:24 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:24 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:24 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:24 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:24 symfony [info] {sfWebDebugLogger} Configuration 10.02 ms (8)
+Sep 22 12:59:24 symfony [info] {sfWebDebugLogger} Factories 90.09 ms (1)
+Sep 22 12:59:24 symfony [info] {sfWebDebugLogger} Action "index/index" 2.67 ms (1)
+Sep 22 12:59:24 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:25 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:25 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Configuration 10.98 ms (8)
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Factories 89.02 ms (1)
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Action "index/index" 1.96 ms (1)
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:25 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:25 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Configuration 9.91 ms (8)
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Factories 111.75 ms (1)
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Action "index/index" 2.01 ms (1)
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:25 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:25 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Configuration 10.27 ms (8)
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Factories 88.99 ms (1)
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Action "index/index" 1.57 ms (1)
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:25 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:25 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:25 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Configuration 11.23 ms (8)
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Factories 89.51 ms (1)
+Sep 22 12:59:25 symfony [info] {sfWebDebugLogger} Action "index/index" 1.73 ms (1)
+Sep 22 12:59:25 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:26 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:26 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Configuration 9.31 ms (8)
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Factories 107.16 ms (1)
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Action "index/index" 1.55 ms (1)
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:26 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:26 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Configuration 9.26 ms (8)
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Factories 83.50 ms (1)
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Action "index/index" 1.76 ms (1)
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:26 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:26 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Configuration 9.96 ms (8)
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Factories 114.81 ms (1)
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Action "index/index" 1.52 ms (1)
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:26 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:26 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:26 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Configuration 9.34 ms (8)
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Factories 89.62 ms (1)
+Sep 22 12:59:26 symfony [info] {sfWebDebugLogger} Action "index/index" 2.06 ms (1)
+Sep 22 12:59:26 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:27 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:27 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Configuration 13.41 ms (8)
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Factories 97.65 ms (1)
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Action "index/index" 1.64 ms (1)
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:27 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:27 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Configuration 12.16 ms (8)
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Factories 88.11 ms (1)
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Action "index/index" 1.54 ms (1)
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:27 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:27 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Configuration 13.50 ms (8)
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Factories 99.65 ms (1)
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Action "index/index" 1.53 ms (1)
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:27 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:27 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:27 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Configuration 10.00 ms (8)
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Factories 86.35 ms (1)
+Sep 22 12:59:27 symfony [info] {sfWebDebugLogger} Action "index/index" 2.14 ms (1)
+Sep 22 12:59:27 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:28 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:28 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Configuration 11.88 ms (8)
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Factories 129.18 ms (1)
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Action "index/index" 3.21 ms (1)
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:28 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:28 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Configuration 10.63 ms (8)
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Factories 83.14 ms (1)
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Action "index/index" 1.65 ms (1)
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:28 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:28 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Configuration 10.88 ms (8)
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Factories 85.39 ms (1)
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Action "index/index" 1.72 ms (1)
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:28 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:28 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:28 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Configuration 11.31 ms (8)
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Factories 84.87 ms (1)
+Sep 22 12:59:28 symfony [info] {sfWebDebugLogger} Action "index/index" 1.74 ms (1)
+Sep 22 12:59:28 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:29 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:29 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:29 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:29 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:29 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:29 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:29 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:29 symfony [info] {sfWebDebugLogger} Configuration 9.66 ms (8)
+Sep 22 12:59:29 symfony [info] {sfWebDebugLogger} Factories 88.65 ms (1)
+Sep 22 12:59:29 symfony [info] {sfWebDebugLogger} Action "index/index" 1.50 ms (1)
+Sep 22 12:59:29 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 12:59:29 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 12:59:29 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 12:59:29 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 12:59:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 12:59:29 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 12:59:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 12:59:29 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 12:59:29 symfony [info] {sfFrontWebController} Redirect to "http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 12:59:29 symfony [info] {sfWebResponse} Send header "Location: http://junaio.home.skippdot.net/admin/frontend_dev.php/home"
+Sep 22 12:59:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 12:59:29 symfony [info] {sfWebDebugLogger} Configuration 9.51 ms (8)
+Sep 22 12:59:29 symfony [info] {sfWebDebugLogger} Factories 82.38 ms (1)
+Sep 22 12:59:29 symfony [info] {sfWebDebugLogger} Action "index/index" 1.56 ms (1)
+Sep 22 12:59:29 symfony [info] {sfWebResponse} Send content (130 o)
+Sep 22 13:09:16 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 13:09:16 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 13:09:16 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'game',  'action' => 'index',)
+Sep 22 13:09:17 symfony [info] {sfFrontWebController} Action "game/index" does not exist
+Sep 22 13:09:17 symfony [err] {sfError404Exception} Action "game/index" does not exist.
+Sep 22 13:09:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 22 13:09:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 13:09:17 symfony [info] {sfWebDebugLogger} Configuration 340.69 ms (6)
+Sep 22 13:09:17 symfony [info] {sfWebDebugLogger} Factories 307.05 ms (1)
+Sep 22 13:14:34 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 13:14:34 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 13:14:34 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /sf_guard_user with parameters array (  'module' => 'sf_guard_user',  'action' => 'index',)
+Sep 22 13:14:34 symfony [info] {sfFrontWebController} Action "sf_guard_user/index" does not exist
+Sep 22 13:14:34 symfony [err] {sfError404Exception} Action "sf_guard_user/index" does not exist.
+Sep 22 13:14:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 22 13:14:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 13:14:34 symfony [info] {sfWebDebugLogger} Configuration 7.85 ms (5)
+Sep 22 13:14:34 symfony [info] {sfWebDebugLogger} Factories 117.55 ms (1)
+Sep 22 13:18:11 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 13:18:11 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 13:18:11 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /sf_guard_user with parameters array (  'module' => 'sf_guard_user',  'action' => 'index',)
+Sep 22 13:18:11 symfony [info] {sfFrontWebController} Action "sf_guard_user/index" does not exist
+Sep 22 13:18:11 symfony [err] {sfError404Exception} Action "sf_guard_user/index" does not exist.
+Sep 22 13:18:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 22 13:18:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 13:18:11 symfony [info] {sfWebDebugLogger} Configuration 544.41 ms (6)
+Sep 22 13:18:11 symfony [info] {sfWebDebugLogger} Factories 109.25 ms (1)
+Sep 22 16:02:43 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 16:02:43 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 16:02:43 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'game',  'action' => 'index',)
+Sep 22 16:02:43 symfony [info] {sfFrontWebController} Action "game/index" does not exist
+Sep 22 16:02:43 symfony [err] {sfError404Exception} Action "game/index" does not exist.
+Sep 22 16:02:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 22 16:02:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 16:02:43 symfony [info] {sfWebDebugLogger} Configuration 401.36 ms (5)
+Sep 22 16:02:43 symfony [info] {sfWebDebugLogger} Factories 263.36 ms (1)
+Sep 22 16:03:11 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 16:03:11 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 16:03:11 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'game',  'action' => 'index',)
+Sep 22 16:03:11 symfony [info] {sfFrontWebController} Action "game/index" does not exist
+Sep 22 16:03:11 symfony [err] {sfError404Exception} Action "game/index" does not exist.
+Sep 22 16:03:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 22 16:03:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 16:03:11 symfony [info] {sfWebDebugLogger} Configuration 6.41 ms (5)
+Sep 22 16:03:11 symfony [info] {sfWebDebugLogger} Factories 86.99 ms (1)
+Sep 22 16:03:14 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 16:03:14 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 16:03:14 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'game',  'action' => 'index',)
+Sep 22 16:03:14 symfony [info] {sfFrontWebController} Action "game/index" does not exist
+Sep 22 16:03:14 symfony [err] {sfError404Exception} Action "game/index" does not exist.
+Sep 22 16:03:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 22 16:03:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 16:03:14 symfony [info] {sfWebDebugLogger} Configuration 4.71 ms (5)
+Sep 22 16:03:14 symfony [info] {sfWebDebugLogger} Factories 88.99 ms (1)
+Sep 22 16:03:49 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signin" (/guard/login)
+Sep 22 16:03:49 symfony [info] {sfPatternRouting} Connect sfRoute "sf_guard_signout" (/guard/logout)
+Sep 22 16:03:49 symfony [info] {sfPatternRouting} Match route "game_index" (/home) for /home with parameters array (  'module' => 'index',  'action' => 'index',)
+Sep 22 16:03:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 22 16:03:49 symfony [info] {sfFilterChain} Executing filter "sfGuardRememberMeFilter"
+Sep 22 16:03:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 22 16:03:49 symfony [info] {indexActions} Call "indexActions->executeIndex()"
+Sep 22 16:03:49 symfony [info] {sfFrontWebController} Redirect to "/admin/backend_dev.php/point"
+Sep 22 16:03:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Sep 22 16:03:49 symfony [info] {sfWebResponse} Send header "Location: /admin/backend_dev.php/point"
+Sep 22 16:03:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 22 16:03:49 symfony [info] {sfWebDebugLogger} Configuration 173.80 ms (9)
+Sep 22 16:03:49 symfony [info] {sfWebDebugLogger} Factories 215.07 ms (1)
+Sep 22 16:03:49 symfony [info] {sfWebDebugLogger} Action "index/index" 1.35 ms (1)
+Sep 22 16:03:49 symfony [info] {sfWebResponse} Send content (99 o)

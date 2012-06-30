@@ -1,0 +1,53 @@
+Profile:
+  columns:
+    sf_guard_user_id: integer(4)
+    first_name: string(255)
+    middle_name: string(255)
+    last_name: string(255)
+    email_address: string(255)
+  relations:
+    User:
+      class: sfGuardUser
+      foreignType: one
+
+Point:
+  columns:
+    id: { type: integer, primary: true, autoincrement: true }
+    name: string(255)
+    description: string(255)
+    interaction_feedback: { type: string(255), default: 'none' }
+    placed_date: date
+    longitude: float(18,5)
+    latitude: float(18,5)
+    altitude:
+      type: float(18,5)
+      default: 0
+    X:
+      type: float(18,5)
+      default: 0
+    Y:
+      type: float(18,5)
+      default: 0
+    Z:
+      type: float(18,5)
+      default: 0
+    accuracy: integer
+    maxdistance: integer
+    mime_type: { type: string(255), default: 'text/plain' }
+    model_uri: string(255)
+    thumbnail_url: string(255)
+    icon_url: string(255)
+    phonenumber: string(255)
+    email: string(255)
+    homepage: string(255)
+    local_name: string(255)
+    line: string(255)
+
+# When the channel is being viewed, a poi request will be sent
+PointStat:
+  columns:
+    uid: { type: integer, notnull: true }# Unique user identifier
+    l: { type: string(255), notnull: false } # Position of the user when interacting with the POI
+    p: { type: string(255), notnull: false } # perimeter of the data requested in meters.
+    m: { type: integer, notnull: false } # limit of to be returned values
+    page: { type: integer, notnull: false } # page number of result. e.g. m = 10: page 1: 1-10; page 2: 11-20, e.g.
