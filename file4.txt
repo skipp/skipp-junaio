@@ -1,2 +1,6 @@
 some code here
+<<<<<<< HEAD
 new code added feature3
+=======
+Fix1
+>>>>>>> 33d1bc7... Added fix1
