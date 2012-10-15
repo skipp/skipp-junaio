@@ -1,13 +1,6 @@
+Kharkiv Metro Stations application based on junaio - augmented reality framework
 
-Learning git
-New line
-New changes
-again
-updating for text1
+made by Stepan Shamaiev
+made for and with Anton Pashchenko
 
-Feature1
-Feature2
-Feature 2 changes
-
-Fixing bug#1234
-Another fix to bug1234
+here is Zend libs, and simple symfony generated admin
